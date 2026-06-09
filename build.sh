@@ -8,7 +8,7 @@ url:
 }
 stage('Status') {
 steps {
-echo "Sucessfully fetched the repo"'https://github.com/your-username/your-repo.git'
+echo "Sucessfully fetched the repo"'https://github.com/Vishnu-Priya2004/your-repo.git'
 }
 }
 }
